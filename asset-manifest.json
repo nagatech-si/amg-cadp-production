@@ -5,8 +5,8 @@
     "static/js/1.030131ff.chunk.js": "/amg-cadp-production/static/js/1.030131ff.chunk.js",
     "static/js/1.030131ff.chunk.js.map": "/amg-cadp-production/static/js/1.030131ff.chunk.js.map",
     "main.css": "/amg-cadp-production/static/css/main.3bc20834.chunk.css",
-    "main.js": "/amg-cadp-production/static/js/main.a9b7c958.chunk.js",
-    "main.js.map": "/amg-cadp-production/static/js/main.a9b7c958.chunk.js.map",
+    "main.js": "/amg-cadp-production/static/js/main.7604da99.chunk.js",
+    "main.js.map": "/amg-cadp-production/static/js/main.7604da99.chunk.js.map",
     "runtime-main.js": "/amg-cadp-production/static/js/runtime-main.7ad87c94.js",
     "runtime-main.js.map": "/amg-cadp-production/static/js/runtime-main.7ad87c94.js.map",
     "static/css/4.c3242fa5.chunk.css": "/amg-cadp-production/static/css/4.c3242fa5.chunk.css",
@@ -48,6 +48,6 @@
     "static/css/4.c3242fa5.chunk.css",
     "static/js/4.2c1047f9.chunk.js",
     "static/css/main.3bc20834.chunk.css",
-    "static/js/main.a9b7c958.chunk.js"
+    "static/js/main.7604da99.chunk.js"
   ]
 }
