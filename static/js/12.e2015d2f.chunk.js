@@ -1,2 +1,0 @@
-(this.webpackJsonpamgcadp=this.webpackJsonpamgcadp||[]).push([[12],{589:function(t,a,e){"use strict";e.r(a);e(0);var s=e(600),r=e(97),c=e(7);a.default=function(){return Object(c.jsx)(s.a,{status:"404",title:"404",subTitle:"Sorry, the page you visited does not exist.",extra:Object(c.jsx)(r.a,{type:"primary",href:"/amg-cadp-production/dashboard",children:"Back Home"})})}}}]);
-//# sourceMappingURL=12.e2015d2f.chunk.js.map
