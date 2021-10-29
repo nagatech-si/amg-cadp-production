@@ -1,0 +1,2 @@
+(this.webpackJsonpamgcadp=this.webpackJsonpamgcadp||[]).push([[10],{587:function(t,c,e){"use strict";e.r(c);var a=e(0),n=e(62),s=e(330),i=e(331),r=e(73),p=e(25),u=e(7);c.default=function(){var t=Object(n.c)();return Object(a.useEffect)((function(){t(p.h),document.title="Dashboard"}),[t]),Object(u.jsx)(s.a,{children:Object(u.jsx)(i.a,{span:24,style:{marginTop:10},children:Object(u.jsx)(r.a,{})})})}}}]);
+//# sourceMappingURL=10.1257e1ee.chunk.js.map
